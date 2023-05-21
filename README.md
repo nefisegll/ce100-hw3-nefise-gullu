@@ -18,11 +18,12 @@
 - WebSite: []()https://ucoruh.github.io/ce100-algorithms-and-programming-II/
 
 ## ENVIRONMENT SETUP
+
 - Visual Studio Community Edition
 
-- .Net Core 6.0 Framework
+ * .Net Core 6.0 Framework
 
-- XUnit
+ * XUnit
 
 - Choco Package Manager
 
