@@ -20,9 +20,9 @@
 ## ENVIRONMENT SETUP
 - Visual Studio Community Edition
 
-  * .Net Core 6.0 Framework
+- .Net Core 6.0 Framework
 
-  * XUnit
+- XUnit
 
 - Choco Package Manager
 
@@ -34,4 +34,4 @@
 Functions run via Visual Studio 2022.
 
 ## TESTING
-Functions unit tested for all functionality (best case, average case and worst case) via Visual Studio 2022.
+Functions unit tested via Visual Studio 2022.
