@@ -20,10 +20,8 @@
 ## ENVIRONMENT SETUP
 
 - Visual Studio Community Edition
-
- * Net Core 6.0 Framework
-
- * XUnit
+  * Net Core 6.0 Framework
+  * XUnit
 
 - Choco Package Manager
 
